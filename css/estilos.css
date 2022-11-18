@@ -1,0 +1,34 @@
+body{
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+.cabecera{
+	background-color: rgb(49, 54, 201);
+	margin: 0;
+	padding:10px;
+	width: 100%;
+	font-weight: bold;
+	box-shadow: 2px -2px 36px 5px #050405;
+	color: white;
+	font-size: 20px;
+}
+.tagline{
+	padding-left: 10px;
+	color: black;
+	font-size: 16px;
+}
+.container{
+	border: 2px solid rgb(130, 130, 130);
+	width: 60%;
+	margin: 0 auto;
+	padding: 20px;
+	text-align: left;
+	margin-top: 60px;
+}
+.container h1{
+	font-size: 40px;
+}
+.post{
+	color: gray;
+}
